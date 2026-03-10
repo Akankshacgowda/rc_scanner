@@ -7,3 +7,4 @@ gunicorn
 requests
 langchain
 langchain-google-genai
+pytesseract
