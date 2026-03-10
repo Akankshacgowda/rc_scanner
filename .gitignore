@@ -1,0 +1,10 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.env
+uploads/
+generated_letters/
+test_image.jpeg
+test.py
